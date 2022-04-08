@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.b7b1f87c.css",
-    "main.js": "/static/js/main.624c4999.js",
-    "static/media/Howard_Dong_Resume_202111.pdf": "/static/media/Howard_Dong_Resume_202111.f3708dff9ecc1e71ede8.pdf",
-    "index.html": "/index.html",
-    "main.b7b1f87c.css.map": "/static/css/main.b7b1f87c.css.map",
-    "main.624c4999.js.map": "/static/js/main.624c4999.js.map"
+    "main.css": "/h-app/static/css/main.b7b1f87c.css",
+    "main.js": "/h-app/static/js/main.42b729ef.js",
+    "static/media/Howard_Dong_Resume_202111.pdf": "/h-app/static/media/Howard_Dong_Resume_202111.f3708dff9ecc1e71ede8.pdf",
+    "index.html": "/h-app/index.html",
+    "main.b7b1f87c.css.map": "/h-app/static/css/main.b7b1f87c.css.map",
+    "main.42b729ef.js.map": "/h-app/static/js/main.42b729ef.js.map"
   },
   "entrypoints": [
     "static/css/main.b7b1f87c.css",
-    "static/js/main.624c4999.js"
+    "static/js/main.42b729ef.js"
   ]
 }
