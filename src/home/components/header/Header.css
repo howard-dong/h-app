@@ -1,0 +1,32 @@
+.header {
+    display: flex;
+    flex-direction: row;
+}
+
+.header-content h1 {
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-size: 62px;
+    line-height: 80px;
+    letter-spacing: -0.04em;
+
+    text-transform: capitalize;
+
+}
+
+.header-content p {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: var(--color-text);
+
+    margin-top: 1.5rem;
+}
+
+.header-image {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

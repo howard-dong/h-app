@@ -1,0 +1,17 @@
+{
+    "header": {
+        "text_welcome": "Welcome to my website",
+        "text_about": "Hi! My name is Howard and I am studying Mechatronics Engineering at the University of Waterloo. This is my website I coded using React.js displaying my past projects and accomplishments.",
+        "text_greet_1" : "Good Morning!",
+        "text_greet_2" : "Good Afternoon!",
+        "text_greet_3" : "Good Evening!"
+    },
+
+    "footer" : {
+        "text_heading" : "Social Media Links",
+        "text_copyright" : "© 2022 Howard Dong",
+        "socials" : [
+
+        ]
+    }
+}
