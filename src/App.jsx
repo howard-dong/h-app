@@ -1,24 +1,19 @@
+import React from 'react'
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
 
-import './App.css';
-
+import Projects from './projects/Projects'
+import './App.css'
 import Home from './home/Home'
-import React from 'react';
-import {
-  BrowserRouter as Router,
-  Routes,
-  Route,
-  Link
-} from "react-router-dom";
 
-function App() {
+function App () {
   return (
-    // <Router>
-    //     <Routes>
-    //       <Route path="/h-app/" element={<Home />}/>
-    //     </Routes>
-    // </Router>
-    <Home />
-  );
+    <BrowserRouter basename='/h-app'>
+      <Routes>
+        <Route exact path="/" element={<Home />} />
+        <Route path="/projects" element={<Projects />} />
+      </Routes>
+    </BrowserRouter>
+  )
 }
 
-export default App;
+export default App

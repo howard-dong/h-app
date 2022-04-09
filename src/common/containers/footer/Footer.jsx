@@ -1,7 +1,7 @@
 import React from 'react'
 import { AiOutlineGithub, AiFillLinkedin } from 'react-icons/ai'
 import './Footer.css'
-import data from "../../../assets/data.json"
+import data from '../../../assets/data.json'
 
 const Footer = () => {
   return (
@@ -17,7 +17,7 @@ const Footer = () => {
           <AiOutlineGithub color='#fff' size={40} />
         </a>
         <a href="https://www.linkedin.com/in/howard-dong" rel="noreferrer" target="_blank">
-          <AiFillLinkedin color='#fff' size={40}/>
+          <AiFillLinkedin color='#fff' size={40} />
         </a>
       </div>
 

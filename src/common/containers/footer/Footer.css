@@ -37,6 +37,8 @@
     text-align: center;
 }
 
-.footer-socials-container a{
-    padding: 8px;
+.footer-socials-container a {
+    /* width: 40px;
+    height: 40px; */
+    margin: 8px;
 }

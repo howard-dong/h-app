@@ -1,5 +1,5 @@
 {
-    "header": {
+    "header_home": {
         "text_welcome": "Welcome to my website",
         "text_about": "Hi! My name is Howard and I am studying Mechatronics Engineering at the University of Waterloo. This is my website I coded using React.js displaying my past projects and accomplishments.",
         "text_greet_1" : "Good Morning!",
@@ -7,11 +7,16 @@
         "text_greet_3" : "Good Evening!"
     },
 
+    "header_projects": {
+        "text_welcome": "My projects",
+        "text_about": "These are some of the cool projects I made throughout my development journey, ranging from website development to game development using a variety of languages and technologies."
+    },
+
     "footer" : {
         "text_heading" : "Social Media Links",
         "text_copyright" : "© 2022 Howard Dong",
         "socials" : [
-
+            
         ]
     }
 }

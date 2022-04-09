@@ -2,7 +2,7 @@ import React from 'react'
 import { Navbar, Footer } from '../common'
 import { Header } from './components'
 
-const Home = () => {
+const Projects = () => {
   return (
     <div>
       <div className='gradient__bg'>
@@ -14,4 +14,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Projects
