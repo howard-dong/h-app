@@ -12,6 +12,22 @@
         "text_about": "These are some of the cool projects I made throughout my development journey, ranging from website development to game development using a variety of languages and technologies."
     },
 
+    "projects_info": [
+      {
+        "name" : "Ethereum Vaccine Verification App",
+        "description" : "This application utilizes Blockchain and IPFS to store vaccine verification records. UI designed with React. Smart contract is deployed using Solidity."
+      },
+      {
+        "name" : "Employee Management System",
+        "description" : "Using Netbeans, an interactive user interface was built to store and manipulate employee data in a hashtable."
+      },
+      {
+        "name" : "Shoot the Circles? (FPS game)",
+        "description" : "The pygame library was used to develop a pseudo three-dimensional shooter."
+      }
+
+    ],
+
     "footer" : {
         "text_heading" : "Social Media Links",
         "text_copyright" : "© 2022 Howard Dong",

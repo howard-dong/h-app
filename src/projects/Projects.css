@@ -1,0 +1,30 @@
+.project-container {
+  display: grid;
+  grid-template-columns: auto;
+  row-gap: 1em;
+}
+
+/* .project-contianer div {
+  margin: 1em;
+  margin-block-end: 0;
+  margin-block-start: 0;
+  margin-inline-end: 0;
+  margin-inline-start: 0;
+} */
+
+/* .project-container h1 {
+  grid-area: 1 / 1 / 2 / 2;
+}
+
+.project-container body p {
+  grid-area: 2 / 1 / 2 / 1;
+} */
+
+@media screen and (min-width: 80em) {
+  .project-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    row-gap: 1em;
+    column-gap: 1em;
+  }
+}
